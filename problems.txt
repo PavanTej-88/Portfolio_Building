@@ -1,0 +1,6 @@
+Installing vs code and the c/c++ microsoft extension 
+was tricky. Download and installing of gcc the c compiler 
+was hard because the link was hidden in the official website
+and I had to search for it, then I used google's help to download it 
+and I installed it succesfully. Then remembering the command to compile
+the .c code was a bit difficult task.
