@@ -7,7 +7,7 @@ void greet(const char *name) {
 int main() {
     printf("Hello, World!\n");
 
-    greet("Ada");
+    greet("Harshini reddy");
 
     return 0;
 }   
